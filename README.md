@@ -1,2 +1,4 @@
 # hello-world
-git tutorial for beginer
+git tutorial for beginner
+
+twinyank here i like JavaScript. but i'm a beginner.
